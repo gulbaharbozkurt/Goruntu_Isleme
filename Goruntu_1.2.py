@@ -26,3 +26,4 @@ while Goruntu.isOpened():
 
 Goruntu.release()
 cv2.destroyAllWindows()
+
